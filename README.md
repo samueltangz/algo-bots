@@ -7,7 +7,8 @@
 ### Starting the server
 
 ```bash
-# Prerequisite: You need to have MYSQL and Redis installed.
+# Prerequisite:
+# - You need to have MYSQL and Redis installed.
 
 # Copy the config.example.js to config.js
 cp src/config.example.js src/config.js
